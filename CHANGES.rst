@@ -9,6 +9,10 @@
 Changes
 =======
 
+Version 2.1.0 (release 2024-12-03)
+
+- factory: integrate invenio_url_for mechanism
+
 Version 2.0.0 (release 2024-12-03)
 
 - factory: change to new TRUSTS_HOSTS from flask
